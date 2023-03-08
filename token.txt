@@ -1,0 +1,2 @@
+sonar-scanner.bat -D"sonar.projectKey=proyectoequipoign" -D"sonar.sources=." -D"sonar.host.url=http://localhost:9000" -D"sonar.login=admin" -D"sonar.password=admin123"
+token: sqp_fc474590f6b98ee6b2014f8c49dfc6fa8b55e0d2
